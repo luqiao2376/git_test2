@@ -5,5 +5,6 @@ public class git_test {
         System.out.println("I know you miss me at the same time!");
         System.out.println("2");
         System.out.println("I think1");
+        System.out.println("push test");
     }
 }
